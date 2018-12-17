@@ -1,6 +1,6 @@
 # HideTree
 
-Hide Evo Resources Tree 
+Hide Evo Resources Tree (and collapse tree hamburger button)
 
 1) Install
 2) go to Configuration > Interface and features > New Resource button = YES
