@@ -37,7 +37,7 @@ modx.resizer.setWidth(0);
 <style>
 #resizer, #bars {display:none!important;}
 @media (min-width: 840px) {
-#site {margin-left:2em;}
+#site {margin-left:1em;}
 }
 </style>";
 $modx->event->output($out);
