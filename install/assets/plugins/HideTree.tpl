@@ -9,7 +9,7 @@
  * @internal    @events OnManagerTreePrerender
  * @internal    @installset base
  * @internal    @modx_category Manager
- * @internal    @properties @properties &HideTo=Hide Resources Tree to:;menu;All,AdminOnly,AdminExcluded,ThisRoleOnly,ThisUserOnly;All &ThisRole=Hide only to this role:;string;;;(role id) &ThisUser=Hide only to this user:;string;;;(username)
+ * @internal    @properties &HideTo=Hide Resources Tree to:;menu;All,AdminOnly,AdminExcluded,ThisRoleOnly,ThisUserOnly;All &ThisRole=Hide only to this role:;string;;;(role id) &ThisUser=Hide only to this user:;string;;;(username)
  */
 // get manager role
 $internalKey = $modx->getLoginUserID();
